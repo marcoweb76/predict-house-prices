@@ -28,7 +28,7 @@ predict-house-prices/
 ## ▶️ Como executar
 
 1. Clone este repositório:
-git clone https://github.com/seuusuario/predict-house-prices.git
+git clone https://github.com/marcoweb76/predict-house-prices.git
 cd predict-house-prices
 
 
